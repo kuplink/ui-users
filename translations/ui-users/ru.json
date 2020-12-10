@@ -417,7 +417,7 @@
     "brd.overrideAndRenew": "Override & renew",
     "brd.header.newDueDate": "New due date",
     "brd.itemsSelected": "<strong>{count}</strong> {count, plural, one {item} other {items}} <b>selected</b>. ",
-    "selectColumns": "Select Columns",
+    "selectColumns": "Select columns",
     "cddd.dateRequired": "Дата*",
     "cddd.timeRequired": "Время*",
     "additionalInfo.label": "Дополнительная информация",
