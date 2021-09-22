@@ -70,6 +70,12 @@ const mutator = {
   openTransactions: {
     GET: doFetchOpenTransactions,
   },
+  hasManualPatronBlocks: {
+    GET: jest.fn(() => Promise.resolve([])),
+  },
+  hasAutomatedPatronBlocks: {
+    GET: jest.fn(() => Promise.resolve([])),
+  },
 };
 
 jest.mock(
